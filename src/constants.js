@@ -46,7 +46,7 @@ import vpsLogo from './assets/education_logo/vps_logo.png';
 // Project Section Logo's
 import homentor from './assets/work_logo/homentor.png';
 import chahatcafe from './assets/work_logo/chahatcafe.png';
-import Millionaireclub from './assets/work_logo/Millionaireclub.png';
+import Millionaireclub from './assets/work_logo/millionaireclub.png';
 
 
 
